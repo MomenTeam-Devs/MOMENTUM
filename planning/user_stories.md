@@ -2,18 +2,6 @@
 
 Reference the Writing User Stories final project guide in the course portal for more information about how to complete each of the sections below.
 
-<<<<<<< HEAD
-## Outline User Roles
-
-[👉🏾👉🏾👉🏾 Include at least at least 1, but no more than 3, user roles.]
-
-## Draft User Stories
-
-[👉🏾👉🏾👉🏾 Include at least at least 10 user stories in this format:]
-
-1. As a [user role], I want to [what], so that [why].
-=======
-
 # Outline User Roles
 
 ## Member
@@ -25,7 +13,6 @@ A user who wants to build consistent fitness habits through personalized workout
 A member who creates and manages an accountability group, inviting others to stay motivated and consistent together.
 
 > **Note:** A member can also be an Accountability Group Leader.
-
 
 # Draft User Stories
 
@@ -52,4 +39,3 @@ A member who creates and manages an accountability group, inviting others to sta
 11. As a **Member**, I want the app to automatically generate a personalized starter workout plan after I complete onboarding, so that I can begin my fitness journey immediately without creating my own workout routine.
 
 12. As a **Member**, I want to receive personalized motivational messages based on my recent progress and consistency, so that I feel encouraged to continue building healthy habits.
->>>>>>> f9e1427 (Unit 5 Milestone)

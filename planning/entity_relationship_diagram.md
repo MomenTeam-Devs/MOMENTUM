@@ -1,4 +1,4 @@
-<img width="2827" height="1930" alt="momentum_erd" src="https://github.com/user-attachments/assets/778a4d87-ef6e-44d5-8ba2-ee2aa8787c75" />
+
 # Entity Relationship Diagram
 
 Reference the Creating an Entity Relationship Diagram final project guide in the course portal for more information about how to complete this deliverable.
@@ -14,7 +14,7 @@ Our database consists of 4 main entity tables and 1 junction table designed to s
 
 ## Add the Entity Relationship Diagram
 
-![Momentum Entity Relationship Diagram](../images/momentum_erd.png)
+<img width="2827" height="1930" alt="momentum_erd" src="https://github.com/user-attachments/assets/778a4d87-ef6e-44d5-8ba2-ee2aa8787c75" />
 
 ### Table Structures
 

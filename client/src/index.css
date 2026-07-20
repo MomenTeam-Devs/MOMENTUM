@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "DM Sans", sans-serif;
+  --font-display: "DM Serif Display", serif;
+  --color-momentum-bg: #0d0f16;
+  --color-momentum-panel: #151720;
+  --color-momentum-border: #292c37;
+  --color-momentum-muted: #85889e;
+  --color-momentum-lime: #c6ff24;
+}
+
+:root {
+  font-family: var(--font-sans);
+  color: #f5f5f7;
+  background: var(--color-momentum-bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button,
+input {
+  font: inherit;
+}

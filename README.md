@@ -33,7 +33,7 @@ Momentum is inspired by habit-building products such as Duolingo and GitHub cont
 Frontend:
 - React
 - React Router
-- CSS / Tailwind CSS (TBD)
+- Tailwind CSS
 
 Backend:
 - Node.js

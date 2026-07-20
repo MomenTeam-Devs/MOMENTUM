@@ -1,3 +1,4 @@
 .devsecops/
 .env
 .env.example
+.env

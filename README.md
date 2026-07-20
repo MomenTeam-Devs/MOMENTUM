@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/4f9adf5c-bd93-4695-b546-fabfd7a9b8e4
-
-
-
-https://github.com/user-attachments/assets/cc6b17ae-6c19-4105-8a65-774d362ff042
-
 # Momentum
 
 CodePath WEB103 Final Project
